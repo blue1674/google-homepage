@@ -6,7 +6,6 @@
     position: fixed;
     top: 50%;
     left: 50%;
-    /* bring your own prefixes */
     transform: translate(-50%, -97%);
 }
 .header{
@@ -44,7 +43,6 @@
   margin: 0 auto;
   padding-left: 20px;
   margin-top: 20px;
-  background-image: url("images/search-icon.jpeg") top left no-repeat;
 }
 
 .search_bar:hover{
